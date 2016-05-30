@@ -1,4 +1,4 @@
-# Week_16A_CSS_Calculator
+# Week 16A CSS Calculator
 Repository for the CSS Calculator task.
 
 I didn't make this project by myself, it is based on a tutorial linked below!
